@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **JavaScript, ReactJS, Bootstrap**
+ - 💬 Ask me about **JavaScript, ReactJS, Bootstrap**
 
-- 📫 How to reach me: **chandan07an@gmail.com**
+ - 📫 How to reach me: **chandan07an@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
