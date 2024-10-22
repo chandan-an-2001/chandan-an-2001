@@ -1,34 +1,34 @@
 <h1 align="center">Hi 👋, I'm Chandan A N</h1>
 <h3 align="center">A passionate Frontend Developer from India (Fresher)</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" style="margin-right: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 **Currently learning**: I am focused on sharpening my skills in **JavaScript**, **ReactJS**, and **Bootstrap** to build responsive and dynamic user interfaces.
+- 🌱 **Currently learning**: Sharpening my skills in **JavaScript**, **ReactJS**, and **Bootstrap** to build responsive and dynamic user interfaces.
 
-- 👨‍💻 **Projects**: I have built several personal projects, including:
-  - A dynamic **Portfolio Website** using **HTML, CSS, and JavaScript**.
-  - A **Tic-Tac-Toe Game** built using **HTML, CSS, and JavaScript**, which includes a simple UI and game logic to make it fun and interactive.
-  - A **Weather App** built with **ReactJS** that fetches data from external APIs to display real-time weather information.
-  - A **Todo List App** that allows users to manage their daily tasks, utilizing **ReactJS** components and state management.
+- 👨‍💻 **Projects**:
+  - **Portfolio Website**: Created using **HTML**, **CSS**, and **JavaScript**.
+  - **Tic-Tac-Toe Game**: A fun and interactive game using **HTML**, **CSS**, and **JavaScript**.
+  - **Weather App**: A **ReactJS** app that fetches real-time weather data using external APIs.
+  - **Todo List App**: A **ReactJS** app for managing tasks with state management.
 
-- 🔍 **What I'm looking for**: I am actively seeking opportunities as a **Frontend Developer** where I can apply my skills to real-world projects and contribute to an innovative team. I'm eager to learn and grow in a fast-paced development environment.
+- 🔍 **What I'm looking for**: Opportunities as a **Frontend Developer** where I can apply my skills and contribute to real-world projects.
 
-- 📚 **Education**: I have a **Master’s in Computer Applications (MCA)**, where I gained a solid foundation in **Web Development**, **Software Engineering**, and **Object-Oriented Programming**.
+- 📚 **Education**: 
+  - **Master’s in Computer Applications (MCA)**: Expertise in **Web Development**, **Software Engineering**, and **Object-Oriented Programming**.
 
-- ⚙️ **Technologies**: My expertise includes:
-  - Frontend: **HTML5, CSS3, JavaScript, ReactJS, Bootstrap**
-  - Version Control: **Git & GitHub**
+- ⚙️ **Technologies**:
+  - **Frontend**: HTML5, CSS3, JavaScript, ReactJS, Bootstrap
+  - **Version Control**: Git, GitHub
 
-- 💼 **Why hire me**: 
-  - **Problem Solver**: I have a keen eye for debugging and improving performance in frontend applications.
-  - **Quick Learner**: I am passionate about learning new technologies and adapting to new challenges.
-  - **Team Player**: I thrive in collaborative environments and can effectively communicate technical concepts with teammates.
+- 💼 **Why hire me**:
+  - **Problem Solver**: Skilled in debugging and optimizing frontend performance.
+  - **Quick Learner**: Eager to learn new technologies and embrace challenges.
+  - **Team Player**: Effective communicator and collaborator in technical teams.
 
-- 📫 **How to reach me**: You can connect with me at **chandan07an@gmail.com**
+- 📫 **How to reach me**: **chandan07an@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/chandan-a-n-585a3b269" target="_blank">LinkedIn</a>
+<h5 align="left">Connect with me:
+  <a href="https://www.linkedin.com/in/chandan-a-n-585a3b269" target="_blank">LinkedIn</a></h5>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
