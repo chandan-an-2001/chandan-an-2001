@@ -3,9 +3,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **JavaScript, ReactJS, Bootstrap**
+- 🌱 **Currently learning**: I am focused on sharpening my skills in **JavaScript**, **ReactJS**, and **Bootstrap** to build responsive and dynamic user interfaces.
 
-- 📫 How to reach me: **chandan07an@gmail.com**
+- 👨‍💻 **Projects**: I have built several personal projects, including:
+  - A dynamic **Portfolio Website** using **HTML, CSS, and JavaScript**.
+  - A **Tic-Tac-Toe Game** built using **HTML, CSS, and JavaScript**, which includes a simple UI and game logic to make it fun and interactive.
+  - A **Weather App** built with **ReactJS** that fetches data from external APIs to display real-time weather information.
+  - A **Todo List App** that allows users to manage their daily tasks, utilizing **ReactJS** components and state management.
+
+- 🔍 **What I'm looking for**: I am actively seeking opportunities as a **Frontend Developer** where I can apply my skills to real-world projects and contribute to an innovative team. I'm eager to learn and grow in a fast-paced development environment.
+
+- 📚 **Education**: I have a **Master’s in Computer Applications (MCA)**, where I gained a solid foundation in **Web Development**, **Software Engineering**, and **Object-Oriented Programming**.
+
+- ⚙️ **Technologies**: My expertise includes:
+  - Frontend: **HTML5, CSS3, JavaScript, ReactJS, Bootstrap**
+  - Version Control: **Git & GitHub**
+
+- 💼 **Why hire me**: 
+  - **Problem Solver**: I have a keen eye for debugging and improving performance in frontend applications.
+  - **Quick Learner**: I am passionate about learning new technologies and adapting to new challenges.
+  - **Team Player**: I thrive in collaborative environments and can effectively communicate technical concepts with teammates.
+
+- 📫 **How to reach me**: You can connect with me at **chandan07an@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
